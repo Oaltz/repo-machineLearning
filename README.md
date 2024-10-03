@@ -1,8 +1,5 @@
 # repo-machineLearning
 
-
-# repo-machineLearning
-
 ## Nomes:
 - Henrique Bernardo Brito
 - Thiago da Silva Corrêa
